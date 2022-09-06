@@ -8,5 +8,45 @@
         "id": 2,
         "name": "Latte",
         "info": "As the most popular coffee drink out there, the latte is comprised of a shot of espresso and steamed milk with just a touch of foam. It can be ordered plain or with a flavor shot of anything from vanilla to pumpkin spice."
-      }
+      },
+        {
+      "id": 3,
+      "name": "Americano",
+      "info": "With a similar flavor to black coffee, the americano consists of an espresso shot diluted in hot water. Pro tip: if you’re making your own, pour the espresso first, then add the hot water."
+    },
+            {
+      "id": 4,
+      "name": "Espresso",
+      "info": "An espresso shot can be served solo or used as the foundation of most coffee drinks, like lattes and macchiatos."
+    },
+                {
+      "id": 5,
+      "name": "Doppio",
+      "info": "A double shot of espresso, the doppio is perfect for putting extra pep in your step."
+    },
+                {
+      "id": 6,
+      "name": "Cortado",
+      "info": "An espresso shot can be served solo or used as the foundation of most coffee drinks, like lattes and macchiatos."
+    },
+                {
+      "id": 7,
+      "name": "Red Eye",
+      "info": "Named after those pesky midnight flights, a red eye can cure any tiresome morning. A full cup of hot coffee with an espresso shot mixed in, this will definitely get your heart racing."
+    },
+                {
+      "id": 8,
+      "name": "Galão",
+      "info": "Originating in Portugal, this hot coffee drink is closely related to the latte and cappuccino. Only difference is it contains about twice as much foamed milk, making it a lighter drink compared to the other two."
+    },
+                {
+      "id": 9,
+      "name": "Lungo",
+      "info": "A lungo is a long-pull espresso. The longer the pull, the more caffeine there is and the more ounces you can enjoy."
+    },
+                {
+      "id": 10,
+      "name": "Macchiato",
+      "info": "The macchiato is another espresso-based drink that has a small amount of foam on top. It’s the happy medium between a cappuccino and a doppio."
+    },
   ]
