@@ -109,7 +109,7 @@
     "short_info": "The Italian word for small, piccolo latte essentially means small latte (via Australian Coffee Lovers).",
     "para_1": "The Italian word for small, piccolo latte essentially means small latte (via Australian Coffee Lovers). According to a commonly believed theory, the piccolo latte was a creation of Australian baristas who wanted to test what their coffees tasted like with milk throughout the entire day. Since a latte proved to be too large a coffee to drink multiple servings of in a day, they invented piccolo, also known as a small latte.",
     "para_2": "According to Perfect Daily Grind, piccolo lattes are made from a standard shot of espresso, two-parts steamed milk that will smoothly blend into the coffee, and a tiny layer of foam on top. While a standard latte is usually 8 ounces, a piccolo latte is nearly half its size at 3 to 4 ounces. Although similar in its small size to the cortado and macchiato, the cortado has equal parts of espresso and milk with little to no foam (via Roasty Coffee), and only a tablespoon or two of milk is added to espresso to create a macchiato (via Cru Kafe). On the other hand, Piccolo latte uses one shot of espresso and twice the amount of milk, which is then topped with a thin layer of foam. As Perfect Daily Grind has it, this composition makes a piccolo latte less intense, more milky and delicate, and a touch sweeter than its small-sized counterparts, which have more intense flavors.",
-    "imageUrl": "https://syedirfan-41.github.io/images/piccolo-latte.webp"
+    "imageUrl": ""
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "short_info": "To the naked eye, there's little to no difference between an Americano and a long black.",
     "para_1": "To the naked eye, there's little to no difference between an Americano and a long black. Perfect Daily Grind says both use only two ingredients: espresso and water. The difference is in the way that the drinks are prepared. To make an Americano, hot water is added to a shot of espresso. However, to make a long black, a shot of espresso is added to a cup already filled with hot water.",
     "para_2": "According to that coffee outlet, the simple difference in preparation means that a long black has considerably more crema — the lovely layer of froth atop an espresso — than Americano does. The crema gives the long black a creamier mouthfeel. Usually, a long black also has less water than an Americano and so is more intense and less diluted in comparison.nBecause long black only requires espresso on top of water, and a tiny amount of it at that, you can easily taste the subtle flavors of espresso in the drink. This is why if you're brewing a long black at home, make sure to use coffee beans of good quality because the drink very much depends on it. It's also wise to make sure that the water isn't too hot; else, the crema will quickly disintegrate when the espresso shot is poured in.",
-    "imageUrl": "https://syedirfan-41.github.io/images/long-black.webp"
+    "imageUrl": "https://syedirfan-41.github.io/images/piccolo-latte.webp"
   },
   {
     "id": 16,
@@ -158,5 +158,125 @@
     "para_1": "While the concept of mixing fat in tea or coffee has been around for years, the growing popularity of bulletproof coffee can be largely credited to Dave Asprey. According to Business Insider, the American computing exec was trekking in the mountains of Tibet to learn a technique of meditation from Buddhist pilgrims in the area, when a woman served him an unusual brew: tea mixed with yak butter. The peculiar combination, as Asprey says via Business Insider, cleared the fog in his mind caused by altitude changes. In 2010, he came up with what we now know as bulletproof coffee — a blend that mixes coffee with grass-fed butter and his company's Brain Octane Oil.",
     "para_2": "Per the original recipe, the bulletproof coffee is made by blending one cup of brewed coffee with 1 to 2 tablespoons of the oil and another tablespoon or two of unsalted butter or ghee till it turns creamy. Though high in fat and calories, bulletproof coffee claims to be a low-carb meal replacement for breakfast, with enough calories for a morning energy kick whilst keeping hunger pangs at bay. It is a drink perfectly suited for the keto diet (via BBC GoodFood). While more research is needed to substantiate the claim, BBC GoodFood writes that one cup of bulletproof coffee packs in 242 to 354 kilocalories and contains more than the maximum daily recommended intake of saturated fats. Eating Well also finds that although you might want to drink the coffee for its creamy and foamy texture, it's best not to think of it as a meal replacement because it lacks protein and several other nutrients that are essential for your body.",
     "imageUrl": "https://syedirfan-41.github.io/images/bulletproof.webp"
+  },
+  {
+    "id": 21,
+    "name": "Caffé doppio",
+    "short_info": "If you want to sound refined when ordering a double drink at the bar, ask for a doppio. This term is Italian for double, although a bartender may be less likely to know what you're asking for than a barista.",
+    "para_1": "If you want to sound refined when ordering a double drink at the bar, ask for a doppio. This term is Italian for double, although a bartender may be less likely to know what you're asking for than a barista. In the origin country of Italy, ordering a doppio simply means asking for a double shot of espresso (roughly two ounces) rather than a single; however, we American coffee drinkers have become accustomed to two or even three servings of espresso as the basis for milk-based craft caffe drinks, so this drink doesn't carry the same oomph stateside as it does a la Italiana. ",
+    "para_2": "Traditional doppios use no milk, cream, sugar, or flavor; it is made with the same water-espresso ratio as a standard caffé, which is a singular shot of espresso. So why should you order a doppio? If you want a smack of coffee flavor without all the bells and whistles, but one shot isn't enough, go for one of these. It's less concentrated than a ristretto but more so than a lungo ... the perfect morning punch for middle-of-the-pack coffee diehards. ",
+    "imageUrl": "https://syedirfan-41.github.io/images/caffe-doppio.webp"
+  },
+  {
+    "id": 22,
+    "name": "Galão",
+    "short_info": "Are you up for a little globetrotting in your coffee adventures? Next stop: Portugal, with the traditional galão. According to Coffee Affection, this recipe uses a Robusta and Arabica blend.",
+    "para_1": "Are you up for a little globetrotting in your coffee adventures? Next stop: Portugal, with the traditional galão. According to Coffee Affection, this recipe uses a Robusta and Arabica blend (most of what you'll find on grocery shelves is Arabica, but we recommend Vietnamese Robusta from Amazon). This coffee drink is the Portuguese take on a standard latte, different for its use of Robusta beans and milk that's been heated in a saucepan and then frothed with a whisk or frother. ",
+    "para_2": "To make a galão, Coffee Affection recommends making two ounces of espresso with an espresso machine or Moka pot. Heat 6 ounces of your milk of choice on medium-low heat, stirring frequently, then froth. Combine the espresso and milk in a mug, then sweeten with sugar or honey to your taste. Your coffee creation will be thicker and creamier with less of the bitter coffee bite that turns many people away from espresso — but bear in mind that this is not a resident of most American cafe menus. ",
+    "imageUrl": "https://syedirfan-41.github.io/images/galao.webp"
+  },
+  {
+    "id": 23,
+    "name": "Caffé lungo",
+    "short_info": "A caffé lungo is another way to change up your coffee if you prefer your caffeine strong and black.If you order a lungo, you'll get a drink made from the same amount of espresso grounds as a normal shot but with more water.",
+    "para_1": "A caffé lungo is another way to change up your coffee if you prefer your caffeine strong and black. If you order a lungo, you'll get a drink made from the same amount of espresso grounds as a normal shot but with more water. As a result, you'll end up with more coffee in volume with a less intense flavor than if the beverage had been made with the typical 30 to 45 milliliters of water. In Italian, lungo means 'long,' which explains how this variation differs from a standard espresso. The added water means the shot will take up to one minute to pull, while the golden window for a perfect single espresso shot is 28 to 32 seconds. ",
+    "para_2": "Because the water and grounds have longer to interact in a lungo, the taste will be more bitter and smokier when compared to other espressos. This drink is slightly more caffeinated than other espresso-based ones because the prolonged water draws marginally more caffeine from the beans. Lungos are not to be confused with doppios. The drinks are similar in volume, but a doppio requires double the espresso grounds and water to create more coffee without weakening the flavor — a simple double shot.",
+    "imageUrl": "https://syedirfan-41.github.io/images/caffe-lungo.webp"
+  },
+  {
+    "id": 24,
+    "name": "Ristretto",
+    "short_info": "In contrast to a lungo, an espresso ristretto is a shot that's been cut short. This coffee's flavor is subtly different from standard shots.",
+    "para_1": "In contrast to a lungo, an espresso ristretto is a shot that's been cut short. This coffee's flavor is subtly different from standard shots. Whereas over-extraction of coffee leads to a bitter and smoky brew, the ristretto — the Italian word for restricted — will be sweeter and brighter. This is because the compounds responsible for coffee's flavors have less time and water to dissolve with a shortened shot, so they'll be present in higher qualities than in a lungo. The more these compounds dissolve, the more pungent and sour the coffee. ",
+    "para_2": "Ristretto is often used as a voluminous espresso replacement in craft beverages, such as flat whites or americanos, to add a more robust coffee flavor. These shots are made with just 15-20 milliliters of water, so if asking a barista to substitute your espresso with ristretto, keep in mind that your drinks will either be less full or you'll need double the shots pulled. ",
+    "imageUrl": "https://syedirfan-41.github.io/images/ristretto.webp"
+  },
+  {
+    "id": 25,
+    "name": "Affogato",
+    "short_info": "The purpose of an affogato, an Italian indulgence and dynamic union of flavors made by pouring a hot espresso shot over a scoop of vanilla ice cream.",
+    "para_1": "Ever wanted to have your dessert and get caffeinated too? That's the purpose of an affogato, an Italian indulgence and dynamic union of flavors made by pouring a hot espresso shot over a scoop of vanilla ice cream. While some coffee fanatics call it a beverage and others say it's a dessert, no one disagrees that intense, punchy espresso combined with creamy, decadent ice cream is a heaven-made match. ",
+    "para_2": "Affogato translates to drowned in English, but you're meant to enjoy this treat with a spoon before the ice cream is melted entirely by the steamy espresso. It can be made with any type of espresso you prefer — blonde, ristretto, even decaf — and topped with chocolate or caramel drizzle or (our favorite) crushed biscotti. Transform an affogato into a full-fledged dessert by stacking the ice cream over a homemade brownie or cookie. You can also experiment with adding your favorite ice cream flavor; specialty cafes may offer gelato affogato made with chocolate, caramel, or even butter pecan ice cream. However, if you order an affogato-style drink at Starbucks, don't expect a silky ice cream treat; the coffee chain has evolved the term at their establishment to mean pouring a hot shot of espresso over a finished blended Frappuccino. ",
+    "imageUrl": "https://syedirfan-41.github.io/images/affogato.webp"
+  },
+  {
+    "id": 26,
+    "name": "Café au Lait",
+    "short_info": "We have the French to thank for the café au lait, which translates to coffee with milk. If you want the silky-smooth texture of steamed milk that a latte affords but aren't a fan of espresso, the café au lait may be your go-to drink.",
+    "para_1": "We have the French to thank for the café au lait, which translates to coffee with milk. If you want the silky-smooth texture of steamed milk that a latte affords but aren't a fan of espresso, the café au lait may be your go-to drink. Lattes are made with two to three ounces of espresso, and the remaining space in the cup is filled with steamed milk and a thin topping of foam. On the other hand, cafés au lait are equal parts brewed coffee — usually French roast or a very dark roast — and hot milk. The most traditional cafés au lait are made with French press prepared coffee and steamed milk, but whisked or frothed milk if you don't have a steam wand in your home barista setup will still make a silky drink, and coffeemaker brews will work just as well. ",
+    "para_2": "This beverage is smooth and balanced, with a mild coffee flavor and a low placement on the caffeination scale since dark roast beans are less caffeinated than light and medium roasts, and there will be less coffee by volume than a cup of coffee and cold cream. To some coffee drinkers, café au lait may seem quite plain; you can jazz yours up with flavored beans or a dash of cinnamon powder in your milk. ",
+    "imageUrl": "syedirfan-41.github.io/imagesa/cafe-au-lait.webp"
+  },
+  {
+    "id": 27,
+    "name": "Irish coffee",
+    "short_info": "The nights are cold and long in winter, and there's no better way to cap them off than with an Irish coffee.",
+    "para_1": "The nights are cold and long in winter, and there's no better way to cap them off than with an Irish coffee. This warming, boozy drink was first concocted in 1943 by Joe Sheridan, an airport chef who brewed up the cocktail one stormy winter night for misplaced travelers whose flight had been redirected to his small Limerick, Ireland airport. ",
+    "para_2": "Nearly eight decades ago — and after a boom in popularity — the Irish coffee is now a permanent member of the cozy cocktail classics. You don't need to be a stray traveler from a wayward flight to enjoy it now; you can make the perfect Irish coffee at home. The beverage has taken on somewhat of a shoddy reputation as a mediocre drink option for its Americanized preparation with canned whipped cream, oversized coffee mugs, and subpar coffee. To make a proper, delicious Irish coffee, use two parts fresh-brewed coffee (a pour-over would be great for this drink), one part blended Irish whiskey, demerara sugar to your desired sweetness, and a thick blanket of runny whipped cream on top — it's essential to avoid whipped cream from the can if possible and not whisk the cream to stiff peaks, as runny ream will not separate while it cools the coffee.",
+    "imageUrl": "https://syedirfan-41.github.io/images/irish-coffee.webp"
+  },
+  {
+    "id": 28,
+    "name": "Quad shots",
+    "short_info": "Quad shots are not as common in Italy as in the U.S., where they've become widely popular among espresso fanatics, particularly Starbucks fans.",
+    "para_1": "Quad shots are not as common in Italy as in the U.S., where they've become widely popular among espresso fanatics, particularly Starbucks fans. Quad shots are simply four standard shots of espresso, usually made all at once in a larger portafilter (the basket on espresso machines that holds the grounds). Quad shots are most commonly ordered over ice in a large cup and may be combined with cream or sweetener to the drinker's taste. ",
+    "para_2": "Because quad shots are typically made directly into small containers like shot glasses and then poured into the large cup with ice, this beverage does usually lack the crema, or frothy golden head, that forms on hot espresso drinks, and the flavor notes will largely depend on the type of beans used and the technical skill of the barista making the shots. Quad shots use a specific amount of grounds and water — more than solo, doppio, or triple shots — and too much or too little of either will skew the taste of the espresso. Made correctly, an iced quad espresso will be bold and slightly sweet, with no bitterness or sourness. Quad shots can also be made hot if that is your preference, and if four shots are too much, the same drink can be made as a triple rather than a quad. ",
+    "imageUrl": "https://syedirfan-41.github.io/images/quad-shorts.webp"
+  },
+  {
+    "id": 29,
+    "name": "Drip/brewed coffee",
+    "short_info": "Drip coffeemakers are a common countertop ornament in American kitchens than thousand-dollar-plus espresso machines, so it makes perfect sense to include your plain ole cup of Joe in our coffee lineup.",
+    "para_1": "Just a cup of plain brewed coffee is the daily morning comfort many of us are familiar with. Drip coffeemakers are a common countertop ornament in American kitchens than thousand-dollar-plus espresso machines, so it makes perfect sense to include your plain ole cup of Joe in our coffee lineup. However, anyone who knows coffee knows that drip or brewed coffee — which could consist of coffeemakers, percolators, pour-overs, or French presses, depending on how specific you want to be — is far from plain. With 15 different ways to roast coffee plus numerous ways to change the taste of coffee at home, including bean grind, water volume, and brewing method, the possibilities in exploring brewed coffee are infinite. ",
+    "para_2": "Per fluid ounces, brewed coffee is less caffeinated than espresso. However, people generally consume more brewed coffee in fluid ounces than espresso in one sitting — typically anywhere from six to 12 ounces. Coffee roasts on the lighter end of the spectrum are more citrusy and mild, with slightly higher caffeine content. Medium and medium-dark roasts become richer and slightly bittersweet, while dark roasts are smoky and bold. The most accepted ratio for beans to water when brewing coffee is two tablespoons of ground coffee per six ounces of water, but you can subtract a tablespoon if you prefer weaker coffee. ",
+    "imageUrl": "https://syedirfan-41.github.io/images/dripbreweb.webp"
+  },
+  {
+    "id": 30,
+    "name": "Freddo",
+    "short_info": "The Greek word freddo translates to cold, and chilled coffee drinks have been a Grecian craze for decades in this nearly-ever-sunny country, says Greektown Chicago.",
+    "para_1": "While we can't fly you out to Santorini or Mykonos, we can help you get one step closer to Greece with this cherished iced coffee. The Greek word freddo translates to cold, and chilled coffee drinks have been a Grecian craze for decades in this nearly-ever-sunny country, says Greektown Chicago. Freddo is similar to the Greek frappé — an instant-coffee-based drink that saw skyrocketed interest during the COVID pandemic and is not to be confused with the Starbucks Frappuccino that blends milk, ice, and coffee base into a silky smoothie-like texture — but different in that it uses fresh espresso instead of instant coffee. ",
+    "para_2": "Freddo rose to popularity in the mid-90s, according to Christos Zamanakis, Education and Quality Manager at a Greek coffee roaster. It can be made in two ways: freddo cappuccino and freddo espresso. Freddo espresso is made by blending a double shot of espresso, ice, and sugar, creating a smooth, sweet drink. Traditionally, freddos are made with a specialty drink blender, which Zamanakis says is necessary for the best silky texture. The cappuccino variation follows the same method but adds a cap of frothy textured milk (an afrogala, as Greece calls it) over the top. If you're using specialty or high-quality beans and don't need sweetness in your coffee, the freddo can be made sans sugar to let the espresso taste shine. ",
+    "imageUrl": "https://syedirfan-41.github.io/images/freddo.webp"
+  },
+  {
+    "id": 31,
+    "name": "Americano",
+    "short_info": "History says that the American military stationed in Italy during the war were not keen on the strong Italian espresso and wanted to get the drink closer to the black coffee they were so used to from back home.",
+    "para_1": "Americano: the token drink of U.S. WWII soldiers. History says that the American military stationed in Italy during the war were not keen on the strong Italian espresso and wanted to get the drink closer to the black coffee they were so used to from back home. This espresso adaptation was so well received that not only did it follow the soldiers back to the States after the war, but it also spread across Europe and became a cafe staple. ",
+    "para_2": "How does the Americano differ from the simple cup of black coffee that the soldiers were craving? Americanos are made with espresso — a type of concentrated coffee that requires high water pressure and dark roast, finely-ground beans. Drip coffee is made with whatever type of roast the drinker prefers, slow and low-pressure water intake, and a medium-coarse grind. Whereas drip coffee is milder in flavor and caffeine, Americanos are sweeter and punchier since the fast brewing time allows more of the natural flavor compounds to escape dissolving. In hot Americanos, the espresso shot is poured over a mug of hot water. This means the first sips are strongest in coffee taste and full of luscious crema for a smooth and full-bodied mouthfeel. The espresso will slowly melt into the water, and the beverage will get more diluted as you drink it, with the final drinks being the weakest. Assuming you're using a straw, iced Americanos are typically reversed — the espresso is poured over ice followed by cold water.",
+    "imageUrl": "https://syedirfan-41.github.io/images/americano.webp"
+  },
+  {
+    "id": 32,
+    "name": "Chicory",
+    "short_info": " Chicory is a medicinal, blue-flowered member of the dandelion family. It first gained notoriety in Napoleon-era France, when the ruler's trade blockades led to sweeping coffee shortages throughout the country.",
+    "para_1": "If you visit New Orleans, try this NOLA staple: chicory coffee. Chicory is a medicinal, blue-flowered member of the dandelion family. It first gained notoriety in Napoleon-era France, when the ruler's trade blockades led to sweeping coffee shortages throughout the country (via Community Coffee). The plant itself is noncaffeinated but bears a resemblance to the taste of coffee when roasted. Chicory has since been used as a complete coffee substitute for those that can't consume caffeine. Still, in southern Louisiana, where France's influence was strong, chicory was added to coffee to make the precious commodity stretch the way it did during its French embargo. Naval blockades again cut off coffee trades in the Civil War, so the NOLA practice spread to other regions. ",
+    "para_2": "Outside of tradition, some of chicory's ongoing use in coffee can be credited to its alleged health benefits, including anti-parasitic properties, high levels of insulin, cholesterol reduction powers, and intestinal support factors, says Roasty Coffee. This unique coffee drink can be bought as beans already blended with chicory (like this iconic yellow-labeled roast straight from N'Orleans on Amazon), or it can be made from scratch with fresh chicory roots. The roots must be washed, dried, minced, and roasted, then ground, blended with coffee, and brewed as preferred. Chicory coffee tastes similar to regular coffee, although slightly earthier and nuttier, almost like hazelnuts. We recommend enjoying it unsweetened with a healthy pour of cream. ",
+    "imageUrl": "https://syedirfan-41.github.io/images/chicory.webp"
+  },
+  {
+    "id": 33,
+    "name": "Espresso martini",
+    "short_info": " When made with high-quality espresso and top-shelf vodka, the espresso martini is a smooth, edgy drink perfect for starting a night out — or keeping you awake until last call.",
+    "para_1": "The world of coffee-based cocktails is vast and far-reaching, but is any so classic and sophisticated as the espresso martini? This elegant indulgence is a product of swanky '80s-era London Soho, where history says a bartender wanted to impress a future supermodel that requested a cocktail made with coffee (via Diego Bar Academy). When made with high-quality espresso and top-shelf vodka, the espresso martini is a smooth, edgy drink perfect for starting a night out — or keeping you awake until last call. The addition of coffee liqueur — often Kahlúa, which plays into many coffee cocktails, including White and Black Russians — makes the espresso flavor vibrant and robust, and the simple syrup helps to keep it sweet.",
+    "para_2": "Liquor recommends making the espresso martini by combining two ounces of vodka (Grey Goose is a popular top-shelf choice), one-half ounce of coffee liqueur, one ounce of espresso (or cold brew concentrate if espresso isn't available to you), and one-half ounce of simple syrup in a shaker filled with ice. After a hearty shake, strain your martini into a chilled glass and garnish with coffee beans. Simple and sophisticated, with a caffeine-packed espresso punch. ",
+    "imageUrl": "https://syedirfan-41.github.io/images/espresso.webp"
+  },
+  {
+    "id": 34,
+    "name": "Mexican coffee",
+    "short_info": "If you'd like an Irish coffee with a bit more kick, head to North America, where Mexico presents its boozy rendition on a hot pick-me-up.",
+    "para_1": "If you'd like an Irish coffee with a bit more kick, head to North America, where Mexico presents its boozy rendition on a hot pick-me-up. There are several coffee cocktails hailing from Mexico, and this recipe is not to be confused with carajillo, an after-dinner cocktail made with hot black coffee or espresso, and Licor 43, a sweet Spanish liqueur.",
+    "para_2": "To make this smooth and creamy drink, you'll need one ounce of coffee liqueur, such as Kahlúa, one-half ounce of tequila, and five ounces of hot coffee. Combine the coffee and alcohol, pour into your favorite mug, and top with whipped cream and a dusting of cinnamon, says All Recipes. The tequila is nice and warming, the Kahlúa provides a strong coffee flavor, and you can try using flavored beans to change up the taste of this cocktail. If you want a stronger spice flavor, try adding powdered cinnamon (and any other spices of choice) to your coffee grounds before brewing. This will taste like Christmas in a cup. ",
+    "imageUrl": "https://syedirfan-41.github.io/images/mexican-coffee.webp"
+  },
+  {
+    "id": 35,
+    "name": "Vienna Coffee",
+    "short_info": "Shots of espresso, a whole heap of whipped cream, and a sprinkling of chocolate — that's all it takes to make a decadent Vienna coffee.",
+    "para_1": "Shots of espresso, a whole heap of whipped cream, and a sprinkling of chocolate — that's all it takes to make a decadent Vienna coffee. The capital city of Austria has been mastering coffee and cafes for centuries, and we have it to thank for this drink. Traditionally served in a tall handled glass, a Vienna coffee is prepared by pouring your desired amount of espresso into the glass and adding around an ounce of hot water. Then, fill the remaining space with whipped cream — we won't judge for using canned, but fresh is best. ",
+    "para_2": "The topping of a Vienna coffee is typically chocolate shavings, but you can use curls, sprinkles, cocoa powder, or chocolate syrup instead if preferred. In some Vienna coffee variations, orange zest or almond slivers replace the chocolate — we recommend trying all three, separately or together. Americanized recipes also commonly call for chocolate in the espresso to make a drink similar to mochas (via Taste of Home), but this isn't traditional. Vienna coffee is often confused with espresso con panna; both coffees are based on espresso and whipped cream, and Vienna coffee is simply a higher-volume version. Espresso con panna is made by adding a small amount of whipped cream to espresso in a two-ounce demitasse glass, and Vienna coffee adds much more whipped cream plus hot water to espresso in a tall eight-ounce cup. ",
+    "imageUrl": "https://syedirfan-41.github.io/images/vienna-coffee.webp"
   }
 ]
